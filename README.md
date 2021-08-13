@@ -28,7 +28,8 @@ Desenvolver um App que apresenta os repositório do usuário. Projeto desenvolvi
 
 Este repositório teve como objetivo de entregar o projeto proposto pelo Bootcamp Inter Android Developer (App para apresentar portfólio), 
 entretanto farei um projeto similar com outro propósito que estará relacionado a criptomoedas.
-A ideia do projeto original proposto pelo Bootcamp abriu expandiu meus horizontes.
+A ideia do projeto original proposto pelo Bootcamp possibilitou ter outras visões.
+Link do repositório EM BREVE...
 
 <img src="https://hermes.digitalinnovation.one/certificates/cover/69A6027D.jpg">
 
