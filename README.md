@@ -3,7 +3,7 @@
 ### 📔 Descrição
 Desenvolver um App que apresenta os repositório do usuário. Projeto desenvolvido através do Bootcamp da DIO - Inter Android Developer, apresentado pelo Desenvolvedor Ezequiel Messore.
 
-  <img src="https://i.pinimg.com/originals/2d/8b/ba/2d8bba2e774b41fe38ac0d4eb2fb8d0b.jpg">
+  <img src="https://i.pinimg.com/originals/c4/92/f2/c492f22fdd209696cea0315843d1bb74.jpg">
 
 ### 👨‍🏫 Aprendizado
 
