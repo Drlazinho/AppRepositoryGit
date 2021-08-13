@@ -1,5 +1,8 @@
 # AppRepositoryGit 
 
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) 
+
+
 ### 📔 Descrição
 Desenvolver um App que apresenta os repositório do usuário. Projeto desenvolvido através do Bootcamp da DIO - Inter Android Developer, apresentado pelo Desenvolvedor Ezequiel Messore.
 
