@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": 362993462,
+      "name": "App-para-Cadastro-de-Series",
+      "owner": {
+        "login": "Drlazinho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/79115354?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "C#",
+      "html_url": "https://github.com/Drlazinho/App-para-Cadastro-de-Series",
+      "description": "Cadastro de Série da TV streame"
+    },
+    {
+      "id": 389669942,
+      "name": "BusinessCard_Kotlin",
+      "owner": {
+        "login": "Drlazinho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/79115354?v=4"
+      },
+      "html_url": "https://github.com/Drlazinho/BusinessCard_Kotlin",
+      "description": "Business Card Creation Application",
+      "stargazers_count": 1,
+      "language": "Kotlin"
+    },
+    {
+      "id": 384896103,
+      "name": "CalculadoradeNotas",
+      "owner": {
+        "login": "Drlazinho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/79115354?v=4"
+      },
+      "html_url": "https://github.com/Drlazinho/CalculadoradeNotas",
+      "description": "Atualizada com viewBinding",
+      "stargazers_count": 1,
+      "language": "Kotlin"
+    },
+    {
+      "id": 363790157,
+      "name": "Games_Devs",
+      "owner": {
+        "login": "Drlazinho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/79115354?v=4"
+      },
+      "html_url": "https://github.com/Drlazinho/Games_Devs",
+      "description": "Jogos Desenvolvidos através das Aulas Dio e +",
+      "stargazers_count": 1,
+      "language": "JavaScript"
+    },
+    {
+      "id": 361095154,
+      "name": "Instagram-do-League-of-Legends---Academia-de-batalha",
+      "owner": {
+        "login": "Drlazinho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/79115354?v=4"
+      },
+      "html_url": "https://github.com/Drlazinho/Instagram-do-League-of-Legends---Academia-de-batalha",
+      "description": "Como seria o Instagram do LOL - Jogo de Moba.",
+      "stargazers_count": 1,
+      "language": "CSS"
+    },
+    {
+      "id": 361439955,
+      "name": "LEAGUEFLIX",
+      "owner": {
+        "login": "Drlazinho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/79115354?v=4"
+      },
+      "html_url": "https://github.com/Drlazinho/LEAGUEFLIX",
+      "description": null,
+      "stargazers_count": 1,
+      "language": "HTML"
+    },
+    {
+      "id": 381079327,
+      "name": "Primeiros_Passos_Kotlin",
+      "owner": {
+        "login": "Drlazinho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/79115354?v=4"
+      },
+      "html_url": "https://github.com/Drlazinho/Primeiros_Passos_Kotlin",
+      "description": "Primeiros Passos - Comandos Básicos",
+      "stargazers_count": 1,
+      "language": "Kotlin"
+    },
+    {
+      "id": 384855760,
+      "name": "TipTime",
+      "owner": {
+        "login": "Drlazinho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/79115354?v=4"
+      },
+      "html_url": "https://github.com/Drlazinho/TipTime",
+      "description": "App Calculate the Tip",
+      "stargazers_count": 1,
+      "language": "Kotlin"
+    },
+    {
+      "id": 393728363,
+      "name": "ToDoList_Kotlin",
+      "owner": {
+        "login": "Drlazinho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/79115354?v=4"
+      },
+      "html_url": "https://github.com/Drlazinho/ToDoList_Kotlin",
+      "description": "Lista de Tarefas - Android",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 382418180,
+      "name": "Trabalhando_Componentes_em_React",
+      "owner": {
+        "login": "Drlazinho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/79115354?v=4"
+      },
+      "html_url": "https://github.com/Drlazinho/Trabalhando_Componentes_em_React",
+      "description": "Meu primeiro React",
+      "stargazers_count": 1,
+      "language": "JavaScript"
+    }
+  ]
+}
