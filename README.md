@@ -17,7 +17,7 @@ Desenvolver um App que apresenta os repositório do usuário. Projeto desenvolvi
 * Criando o item da listagem
 * Criação do menu
 * Criação do Data Module
-* Criando domain - Arquitetura MVVM e UseCases
+* Criando domain - Arquitetura MVVM e UseCases.
 * View Model
 * Implementação do GLIDE - Biblioteca que gerencia mídias, permitindo ser carregada facilmente no projeto.
 
